@@ -14,7 +14,6 @@ Demonstrar o uso prático do **Git** e **GitHub** para versionamento de código,
 ## 📌 Conteúdo
 - `docs/`: Relatório teórico sobre Git/GitHub ([CONCEITOS.md](/docs/CONCEITOS.md))  
 - `screenshots/`: Capturas de tela da configuração do Git  
-- `src/`: Códigos exemplos (se aplicável)  
 
 ---
 
